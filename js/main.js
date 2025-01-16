@@ -36,3 +36,13 @@ window.addEventListener('scroll', _.throttle(function(){
 },300));
 
 //_.throttle(함수, 시간) 
+
+const fadeEls = document.querySelectorAll('.visual .fade-in')
+// 나타날 요소들을 하나씩 반복해서 처리!
+fadeEls.forEach(function (fadeEl, index) {
+  // 각 요소들을 순서대로(delay) 보여지게 함!
+  gsap.to(fadeEl, 1, {
+    delay: (index + 1) * .7,
+    opacity: 1
+  })
+})
