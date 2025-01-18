@@ -56,7 +56,6 @@ new Swiper('.notice-line .swiper-container', {
   loop: true // 반복 재생 여부
 })
 new Swiper('.promotion .swiper-container', {
-  // direction: 'horizontal', // 수평 슬라이드
   autoplay: { // 자동 재생 여부
     delay: 5000 // 5초마다 슬라이드 바뀜
   },
@@ -74,7 +73,6 @@ new Swiper('.promotion .swiper-container', {
   }
 })
 new Swiper('.awards .swiper-container', {
-  // direction: 'horizontal', // 수평 슬라이드
   autoplay: true, // 자동 재생 여부
   loop: true, // 반복 재생 여부
   spaceBetween: 30, // 슬라이드 사이 여백
