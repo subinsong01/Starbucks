@@ -1,8 +1,9 @@
 # Starbucks Clone Coding ☕️
+<img width="1440" alt="스타벅스 이미지" src="https://github.com/user-attachments/assets/d972ff61-f820-420d-9962-bbcc1d85bf8a" />
 
 스타벅스 페이지를 클론 코딩하면서 학습한 내용을 정리한 문서입니다.🥳✨
 
->  **<a href="https://deploy-preview-6--celebrated-taiyaki-d27ec1.netlify.app/"> 🔗 DEMO 보러가기</a>**
+>  **<a href="https://celebrated-taiyaki-d27ec1.netlify.app/"> 🔗 DEMO 보러가기</a>**
 
 ## 📚 학습 내용
 
