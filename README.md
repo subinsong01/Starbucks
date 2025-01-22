@@ -2,7 +2,7 @@
 
 스타벅스 페이지를 클론 코딩하면서 학습한 내용을 정리한 문서입니다.🥳✨
 
->  **<a href="https://deploy-preview-6--celebrated-taiyaki-d27ec1.netlify.app/"> 🔗 배포한 웹사이트 보러가기</a>**
+>  **<a href="https://deploy-preview-6--celebrated-taiyaki-d27ec1.netlify.app/"> 🔗 DEMO 보러가기</a>**
 
 ## 📚 학습 내용
 
